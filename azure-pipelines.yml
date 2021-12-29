@@ -1,5 +1,5 @@
 # Starter pipeline
- task: NexPloitScan@3
+  task: NexPloitScan@3
   inputs:
     apiToken: 'h3a7gw3.nexa.ilsn8gx0frfaigfbwsfaccegfn031env'
     hostname: 'nexploit.app'
