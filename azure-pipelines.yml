@@ -1,7 +1,7 @@
 # Starter pipeline
-  task: NexPloitScan@3
+- task: NexPloitScan@3
   inputs:
-    apiToken: 'h3a7gw3.nexa.ilsn8gx0frfaigfbwsfaccegfn031env'
+    apiToken: 'kg9veu3.nexa.lwc50w6zl0u6ifimiwljhf1df4hjhtwu'
     hostname: 'nexploit.app'
     module: 'dast'
     discoveryTypes: 'crawler'
